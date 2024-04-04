@@ -6,7 +6,7 @@ Welcome to **bundestag.ai**, your gateway to advanced insights from the German F
 
 Recognizing the pivotal role of parliamentary data in shaping policies and fostering transparency, **bundestag.ai** integrates advanced artificial intelligence technologies through LangChain and Streamlit. Our platform serves as a centralized hub, offering a range of AI-enhanced functionalities tailored to meet diverse user needs and preferences.
 
-Key Features:
+### Core features
 
 * Advanced AI-powered Applications: **bundestag.ai** harnesses the power of LangChain and Streamlit to offer a suite of AI-powered applications. From real-time updates on parliamentary sessions to sentiment analysis tools tracking public opinion on legislative matters, our platform delivers innovative solutions tailored to enhance understanding and engagement with Bundestag data.
 
@@ -19,3 +19,31 @@ Key Features:
 * Transparent and Ethical AI: **bundestag.ai** upholds principles of transparency and ethical AI practices. Our AI algorithms, powered by LangChain, undergo rigorous scrutiny to ensure fairness, accountability, and privacy protection, fostering trust and confidence among users in the integrity of our platform.
 
 Unlock the transformative potential of AI-enhanced insights from the Bundestag with **bundestag.ai**. Delve into the realm of German parliamentary data, empowering informed decision-making and promoting democratic engagement like never before.
+
+### Apps
+
+#### Ask The DIP
+
+Chat with a model that has been enriched with a law of your choice.
+
+Source: https://github.com/BundestagAI/AskTheDIP
+
+#### G2PT
+
+Chat with a model that has been enriched with all printed matter and plenary minutes of the DIP.
+
+Source: https://github.com/BundestagAI/G2PT
+
+#### mDB
+
+Chat with a model that has been enriched with profiles of all MPs.
+
+Source: https://github.com/BundestagAI/mDB
+
+#### pReSSe
+
+Chat with a model that has been enriched with the latest press and short news items.
+
+Source: https://github.com/BundestagAI/pReSSe
+
+
