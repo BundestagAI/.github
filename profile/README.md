@@ -4,7 +4,7 @@ Welcome to **bundestag.ai**, your gateway to AI-powered insights from the German
 
 **bundestag.ai** is a bundle of web apps developed to seamlessly interact with modern LLM technology and open data from the Bundestag, using cutting-edge tooling while leveraging standardized solutions to provide unparalleled access to legislative data.
 
-Recognizing the pivotal role of such public data in shaping society and fostering transparency in a modern democracy, **bundestag.ai** integrates advanced artificial intelligence (AI) technologies, offering a range of functionalities tailored to meet diverse user needs and preferences.
+Recognizing the pivotal role of such public data in shaping society and fostering transparency in a modern democracy, **bundestag.ai** integrates advanced artificial intelligence (AI) technologies, offering a range of functionalities tailored to meet diverse user needs and preferences with respect to making use of that data.
 
 ### Core features
 
