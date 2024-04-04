@@ -35,7 +35,7 @@ Unlock the potential of intelligent insights from the Bundestag with **bundestag
 
 #### Optimized UX
 
-With **bundestag.ai**'s intuitive user interfaces (UI) powered by Streamlit, users can easily interact with each app and its underlying LLM. Each UI follows the structure and paradigms established by ChatGPT, which makes it easy for users to adopt.
+With **bundestag.ai**'s intuitive user interfaces (UI) powered by Streamlit, users can easily interact with each app and its underlying LLM. Each UI follows the structure and paradigms established by ChatGPT, which makes user adoption a no-brainer.
 
 #### Trustworthy AI
 
