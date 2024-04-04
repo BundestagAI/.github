@@ -43,11 +43,11 @@ With **bundestag.ai**'s intuitive chat interface powered by Streamlit, users can
 
 ### Apps
 
-#### LexGPT
+#### NORMan
 
-Chat with a model that has been enriched with a law of your choice.
+Chat with a model that has been enriched with an existing law of your choice.
 
-Source: https://github.com/BundestagAI/LexGPT
+Source: https://github.com/BundestagAI/NORMan
 
 #### AskTheDIP
 
