@@ -2,7 +2,7 @@
 
 Welcome to **bundestag.ai**, your gateway to advanced insights from the German Federal Parliament, the Bundestag. 
 
-**bundestag.ai** is a web-based application platform developed to seamlessly interact with LangChain and Streamlit, harnessing cutting-edge tooling while leveraging standardized solutions to provide unparalleled access to parliamentary data.
+**bundestag.ai** is a bundle of web apps developed to seamlessly interact with modern LLM technology and open data from the Bundestag, harnessing cutting-edge tooling while leveraging standardized solutions to provide unparalleled access to parliamentary data.
 
 Recognizing the pivotal role of parliamentary data in shaping policies and fostering transparency, **bundestag.ai** integrates advanced artificial intelligence technologies through LangChain and Streamlit. Our platform serves as a centralized hub, offering a range of AI-enhanced functionalities tailored to meet diverse user needs and preferences.
 
