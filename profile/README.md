@@ -1,14 +1,14 @@
 ## bundestag.ai
 
-Welcome to **bundestag.ai**, your gateway to advanced insights from the German Federal Parliament, the Bundestag. 
+Welcome to **bundestag.ai**, your gateway to AI-powered insights from the German Federal Parliament, the Bundestag. 
 
-**bundestag.ai** is a bundle of web apps developed to seamlessly interact with modern LLM technology and open data from the Bundestag, harnessing cutting-edge tooling while leveraging standardized solutions to provide unparalleled access to parliamentary data.
+**bundestag.ai** is a bundle of web apps developed to seamlessly interact with modern LLM technology and open data from the Bundestag, harnessing cutting-edge tooling while leveraging standardized solutions to provide unparalleled access to legislative data.
 
-Recognizing the pivotal role of parliamentary data in shaping policies and fostering transparency, **bundestag.ai** integrates advanced artificial intelligence (AI) technologies, offering a range of functionalities tailored to meet diverse user needs and preferences.
+Recognizing the pivotal role of such public data in shaping society and fostering transparency in a modern democracy, **bundestag.ai** integrates advanced artificial intelligence (AI) technologies, offering a range of functionalities tailored to meet diverse user needs and preferences.
 
 ### Core features
 
-Unlock the potential of AI-enhanced insights from the Bundestag with **bundestag.ai**. Here's an overview of its most important features.
+Unlock the potential of intelligent insights from the Bundestag with **bundestag.ai**. Here's an overview of its most important features.
 
 #### Modern Tooling
 
@@ -26,10 +26,10 @@ Unlock the potential of AI-enhanced insights from the Bundestag with **bundestag
 
 #### Data Integration
 
-**bundestag.ai** seamlessly integrates and processes data from various Bundestag sources:
+**bundestag.ai** seamlessly integrates and processes data from various public sources:
 
-* [Bundesministerium für Justiz](https://gesetze-im-internet.de/)
-* [Bundestag](https://bundestag.de/)
+* [Bundesministerium für Justiz](https://www.gesetze-im-internet.de/gii-toc.xml)
+* [Deutscher Bundestag](https://bundestag.de/)
   * [Open Data](https://bundestag.de/services/opendata)
   * [RSS Feeds](https://www.bundestag.de/rss)
 
@@ -39,21 +39,21 @@ With **bundestag.ai**'s intuitive chat interface powered by Streamlit, users can
 
 #### Trustworthy AI
 
-**bundestag.ai** upholds principles of transparency and ethical AI practices. Each model's output will be as verbose as possible and the context documents selected during the RAG will be shown along with the response at all times.
+**bundestag.ai** upholds principles of transparency and ethical AI practices. Each model's output will be as verbose as possible and the context documents selected during the RAG will be shown along with the response – if possible – at all times.
 
 ### Apps
 
-#### Ask The DIP
+#### LexGPT
 
 Chat with a model that has been enriched with a law of your choice.
 
-Source: https://github.com/BundestagAI/AskTheDIP
+Source: https://github.com/BundestagAI/LexGPT
 
-#### G2PT
+#### AskTheDIP
 
 Chat with a model that has been enriched with all printed matter and plenary minutes of the DIP.
 
-Source: https://github.com/BundestagAI/G2PT
+Source: https://github.com/BundestagAI/AskTheDIP
 
 #### mDB
 
@@ -66,5 +66,3 @@ Source: https://github.com/BundestagAI/mDB
 Chat with a model that has been enriched with the latest press and short news items.
 
 Source: https://github.com/BundestagAI/pReSSe
-
-
