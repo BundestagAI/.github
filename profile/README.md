@@ -8,7 +8,7 @@ Recognizing the pivotal role of such public data in shaping society and fosterin
 
 ### Core features
 
-Unlock the potential of intelligent insights from the Bundestag with **bundestag.ai**. Here's an overview of its most important features.
+Unlock the potential of intelligent insights from the Bundestag with **bundestag.ai**. Here's an overview of its core features.
 
 #### Modern Tooling
 
