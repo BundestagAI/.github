@@ -4,21 +4,42 @@ Welcome to **bundestag.ai**, your gateway to advanced insights from the German F
 
 **bundestag.ai** is a bundle of web apps developed to seamlessly interact with modern LLM technology and open data from the Bundestag, harnessing cutting-edge tooling while leveraging standardized solutions to provide unparalleled access to parliamentary data.
 
-Recognizing the pivotal role of parliamentary data in shaping policies and fostering transparency, **bundestag.ai** integrates advanced artificial intelligence technologies through LangChain and Streamlit. Our platform serves as a centralized hub, offering a range of AI-enhanced functionalities tailored to meet diverse user needs and preferences.
+Recognizing the pivotal role of parliamentary data in shaping policies and fostering transparency, **bundestag.ai** integrates advanced artificial intelligence (AI) technologies, offering a range of functionalities tailored to meet diverse user needs and preferences.
 
 ### Core features
 
-* Advanced AI-powered Applications: **bundestag.ai** harnesses the power of LangChain and Streamlit to offer a suite of AI-powered applications. From real-time updates on parliamentary sessions to sentiment analysis tools tracking public opinion on legislative matters, our platform delivers innovative solutions tailored to enhance understanding and engagement with Bundestag data.
+Unlock the potential of AI-enhanced insights from the Bundestag with **bundestag.ai**. Here's an overview of its most important features.
 
-* Streamlined Data Integration and Aggregation: **bundestag.ai** seamlessly integrates and aggregates data from various Bundestag sources using standardized solutions. Through Streamlit's user-friendly interface, users can effortlessly navigate and extract valuable insights from a wealth of parliamentary information, enhancing efficiency and productivity.
+#### Modern Tooling
 
-* Customizable User Experience: With **bundestag.ai**'s intuitive interface powered by Streamlit, users can personalize their experience according to their preferences. Customize notifications, personalize data visualizations, and interact with conversational interfaces to explore parliamentary data in a way that suits individual needs and interests.
+**bundestag.ai** harnesses the power of cutting-edge tools to offer a suite of modern AI-driven web applications:
 
-* Real-time Updates and Analysis: Stay informed with real-time updates on parliamentary proceedings and legislative developments. **bundestag.ai** employs LangChain's advanced natural language processing (NLP) algorithms to analyze and contextualize incoming data, providing users with timely insights and actionable intelligence to stay abreast of the latest happenings within the Bundestag.
+* [Python3](https://python.org/)
+* [Poetry](https://python-poetry.org/)
+* [LangChain](https://python.langchain.com/)
+* [Streamlit](https://streamlit.com/)
+* [OpenAI](https://openai.com/)
+  * `gpt-4`
+  * `gpt-3.5-turbo`
+  * `text-embeddings-3-small`
 
-* Transparent and Ethical AI: **bundestag.ai** upholds principles of transparency and ethical AI practices. Our AI algorithms, powered by LangChain, undergo rigorous scrutiny to ensure fairness, accountability, and privacy protection, fostering trust and confidence among users in the integrity of our platform.
 
-Unlock the transformative potential of AI-enhanced insights from the Bundestag with **bundestag.ai**. Delve into the realm of German parliamentary data, empowering informed decision-making and promoting democratic engagement like never before.
+#### Data Integration
+
+**bundestag.ai** seamlessly integrates and processes data from various Bundestag sources:
+
+* [Bundesministerium für Justiz](https://gesetze-im-internet.de/)
+* [Bundestag](https://bundestag.de/)
+  * [Open Data](https://bundestag.de/services/opendata)
+  * [RSS Feeds](https://www.bundestag.de/rss)
+
+#### Optimized UX
+
+With **bundestag.ai**'s intuitive chat interface powered by Streamlit, users can easily interact with each app and its underlying LLM. The UI follows the structure and paradigms established by ChatGPT.
+
+#### Trustworthy AI
+
+**bundestag.ai** upholds principles of transparency and ethical AI practices. Each model's output will be as verbose as possible and the context documents selected during the RAG will be shown along with the response at all times.
 
 ### Apps
 
